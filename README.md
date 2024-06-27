@@ -15,3 +15,5 @@ This project implements a responsive COVID-19 dashboard using React.js, featurin
 • Code Quality: Clean, modular codebase with extensive comments and adherence to best practices.
 
 • Styling: Styled to match the provided mockup for aesthetic consistency.
+
+**Live Demo**: https://covid19-dashboard-reactjs.netlify.app/
